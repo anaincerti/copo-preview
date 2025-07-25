@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualização do Copo Personalizado - Delta Brindes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f6f6f6;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 400px;
+      margin: 40px auto;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 0 16px #ddd;
+      padding: 24px;
+      text-align: center;
+    }
+    .product-area {
+      position: relative;
+      width: 230px;
+      height: 330px;
+      margin: 0 auto 12px;
+    }
+    .cup-img {
+      width: 100%;
+      height: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px #ccc;
+    }
+    .logo-preview {
+      position: absolute;
+      left: 46px; /* ajuste horizontal
